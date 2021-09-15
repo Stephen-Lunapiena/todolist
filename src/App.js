@@ -85,7 +85,7 @@ function AddTodo({ setTodos }) {
       
         return (
           <span onClick={handleDeleteTodo} role="button" style={{
-            color: 'black',
+            color: 'white',
             marginLeft: 10,
             cursor: "pointer"
           }} >Delete </span>
